@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+
+header {
+    font-size: 2em;
+}
+.header_section{
+
+}
+
+section {
+    border: 0.1em solid dodgerblue;
+    border-radius: 1em;
+    margin-bottom: 1em;
+    padding: 1em;
+}
+
+img {
+    width: 20em;
+}
+
+footer {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 0.8em;
+    padding: 1em;
+}
+.div_content{
+
+}

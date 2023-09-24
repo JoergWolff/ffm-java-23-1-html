@@ -1,0 +1,35 @@
+header{
+  font-size: x-large;
+  font-family: Gotu;
+}
+p{
+  background-color: aliceblue;
+  border: 1px solid darkolivegreen;
+  border-radius: 10px;
+}
+
+li{
+  width: 200px;
+}
+.list_first{
+  background-color: blue;
+  color: bisque;
+}
+.list_second{
+  background-color: red;
+  color: chartreuse;
+}
+.list_third{
+  background-color: green;
+  color: aliceblue;
+}
+
+.div_link{
+  border: 5px dotted red;
+
+}
+
+a{
+  color: coral;
+  text-decoration: none;
+}
